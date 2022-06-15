@@ -1,0 +1,648 @@
+id: IF149BF6A
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-15T20:30:55.021229'
+last_modified: '2022-06-15T20:30:55.021234'
+parser: null
+source_metadata:
+  title: Advice Series
+  language: bo
+  description: 'A series of texts of advice and practical instructions on the path
+    in general as well as more specific topics such as the intermediate states (bar
+    do), Dzogchen, Mahāmudrā and retreat:'
+  volume:
+    fE224:
+      title: Acrostic Song
+      base_file: fE224.txt
+      order: 1
+      parent: Acrostic
+    f350B:
+      title: Advice for a Dying Practitioner
+      base_file: f350B.txt
+      order: 2
+      parent: Bardos
+    fBCDD:
+      title: 'Crucial Advice: A Complete Set of Instructions for the Bardos'
+      base_file: fBCDD.txt
+      order: 3
+      parent: Bardos
+    f1B65:
+      title: A Brief Introduction to the Bardos
+      base_file: f1B65.txt
+      order: 4
+      parent: Bardos
+    fBBFF:
+      title: Advice for Garje Khamtrul Rinpoche
+      base_file: fBBFF.txt
+      order: 5
+      parent: Dzogchen
+    f8BD3:
+      title: Advice on Recognizing the Nature of Mind
+      base_file: f8BD3.txt
+      order: 6
+      parent: Dzogchen
+    f472F:
+      title: 'Advice: Emptying the Three Realms of Existence'
+      base_file: f472F.txt
+      order: 7
+      parent: Dzogchen
+    f1A04:
+      title: Direct Instruction
+      base_file: f1A04.txt
+      order: 8
+      parent: Dzogchen
+    fA76F:
+      title: Advice for a King
+      base_file: fA76F.txt
+      order: 9
+      parent: Dzogchen
+    f3513:
+      title: A Liberating Reminder
+      base_file: f3513.txt
+      order: 10
+      parent: Dzogchen
+    fBE57:
+      title: The Pointing-the-Staff Instruction
+      base_file: fBE57.txt
+      order: 11
+      parent: Dzogchen
+    f5169:
+      title: Advice in a Single Statement (from Khenpo Ngawang Palzang)
+      base_file: f5169.txt
+      order: 12
+      parent: Dzogchen
+    f77D7:
+      title: Principles of the Dzogchen Practice of Khordé Rushen
+      base_file: f77D7.txt
+      order: 13
+      parent: Dzogchen
+    f0FAA:
+      title: The Five Wisdoms
+      base_file: f0FAA.txt
+      order: 14
+      parent: Dzogchen
+    f0646:
+      title: Advice from the Lips of Tertön Sogyal
+      base_file: f0646.txt
+      order: 15
+      parent: Dzogchen
+    fE8C8:
+      title: Notes from the Oral Tradition on Ālaya, Ālaya Consciousness, etc.
+      base_file: fE8C8.txt
+      order: 16
+      parent: Dzogchen
+    f5BB5:
+      title: A Plea to Those who Present ‘Red Offerings’ to Worldly Deities
+      base_file: f5BB5.txt
+      order: 17
+      parent: Ethical Guidelines
+    f2E04:
+      title: Heart Treasure for the Warriors Who Long for Liberation
+      base_file: f2E04.txt
+      order: 18
+      parent: General
+    f8B5C:
+      title: The Bodhisattva’s Garland of Jewels
+      base_file: f8B5C.txt
+      order: 19
+      parent: General
+    fBCFB:
+      title: Advice in Three Sets of Three
+      base_file: fBCFB.txt
+      order: 20
+      parent: General
+    fEE17:
+      title: Spontaneous Advice Connected with a Prayer
+      base_file: fEE17.txt
+      order: 21
+      parent: General
+    f8CE1:
+      title: Words of Advice
+      base_file: f8CE1.txt
+      order: 22
+      parent: General
+    fD79F:
+      title: Pithy Advice on Checking One's Progress on the Path
+      base_file: fD79F.txt
+      order: 23
+      parent: General
+    fADFD:
+      title: Heart Advice in Four Lines
+      base_file: fADFD.txt
+      order: 24
+      parent: General
+    f11DA:
+      title: On Seeing the Guru as a Buddha
+      base_file: f11DA.txt
+      order: 25
+      parent: General
+    fCDCD:
+      title: On Sleep
+      base_file: fCDCD.txt
+      order: 26
+      parent: General
+    f8770:
+      title: On the Ignorance of the Learned
+      base_file: f8770.txt
+      order: 27
+      parent: General
+    f8AB7:
+      title: Three Ways of Bringing Sickness onto the Path
+      base_file: f8AB7.txt
+      order: 28
+      parent: General
+    f8478:
+      title: Turning Suffering & Happiness Into Enlightenment
+      base_file: f8478.txt
+      order: 29
+      parent: General
+    f8B4B:
+      title: 'Words of the Siddhas: How to Practice the Heart-Essence of the Vast
+        Expanse'
+      base_file: f8B4B.txt
+      order: 30
+      parent: General
+    f1A16:
+      title: The Mirror Clearly Showing What to Adopt and Abandon
+      base_file: f1A16.txt
+      order: 31
+      parent: General
+    f7FDB:
+      title: Advice for Urgyen Tsomo
+      base_file: f7FDB.txt
+      order: 32
+      parent: General
+    f93AA:
+      title: Advice to Lhawang Tashi
+      base_file: f93AA.txt
+      order: 33
+      parent: General
+    f8E98:
+      title: A Blissful Path to Awakening
+      base_file: f8E98.txt
+      order: 34
+      parent: General
+    f84C6:
+      title: Advice for Jamyang Losal Zangpo
+      base_file: f84C6.txt
+      order: 35
+      parent: General
+    f23A6:
+      title: Advice for Karma Chöchok
+      base_file: f23A6.txt
+      order: 36
+      parent: General
+    f9316:
+      title: Advice for Khen Rinpoche Jamyang Losal
+      base_file: f9316.txt
+      order: 37
+      parent: General
+    f5844:
+      title: Advice for Lakar Ane Kalchö
+      base_file: f5844.txt
+      order: 38
+      parent: General
+    fDD68:
+      title: Advice for Nubla Kunzang Chöpel
+      base_file: fDD68.txt
+      order: 39
+      parent: General
+    f5197:
+      title: Advice for Palpung Situ Rinpoche
+      base_file: f5197.txt
+      order: 40
+      parent: General
+    fD44C:
+      title: Advice for Pema Rangdrol
+      base_file: fD44C.txt
+      order: 41
+      parent: General
+    f8ED8:
+      title: Advice for Zhichen Gyalsé Kunnyi
+      base_file: f8ED8.txt
+      order: 42
+      parent: General
+    f4AD5:
+      title: Advice for a Sincere Disciple
+      base_file: f4AD5.txt
+      order: 43
+      parent: General
+    f67C7:
+      title: Advice for the Disciple Osam
+      base_file: f67C7.txt
+      order: 44
+      parent: General
+    fE5D7:
+      title: Advice in Brief
+      base_file: fE5D7.txt
+      order: 45
+      parent: General
+    f745D:
+      title: Advice to Myself
+      base_file: f745D.txt
+      order: 46
+      parent: General
+    f5269:
+      title: Advice to Myself Exposing Hidden Flaws
+      base_file: f5269.txt
+      order: 47
+      parent: General
+    f4407:
+      title: Drops of Nectarous Advice
+      base_file: f4407.txt
+      order: 48
+      parent: General
+    f8477:
+      title: Encouragement to Make the Most of the Freedoms and Advantages
+      base_file: f8477.txt
+      order: 49
+      parent: General
+    f078B:
+      title: Four-Point Advice
+      base_file: f078B.txt
+      order: 50
+      parent: General
+    f4346:
+      title: Khandro's Plea
+      base_file: f4346.txt
+      order: 51
+      parent: General
+    fEDD5:
+      title: Necessary Advice
+      base_file: fEDD5.txt
+      order: 52
+      parent: General
+    f554C:
+      title: 'Sweet Nectar of the Supreme Vehicle: A Synopsis of the Stages of the
+        Mahāyāna Path'
+      base_file: f554C.txt
+      order: 53
+      parent: General
+    f1698:
+      title: 'The Blissful Path to Awakening: A Song on the Essence of Definitive
+        Meaning'
+      base_file: f1698.txt
+      order: 54
+      parent: General
+    f4398:
+      title: The Excellent Vase of Ambrosial Advice
+      base_file: f4398.txt
+      order: 55
+      parent: General
+    fBC14:
+      title: The String of Pearls Advice
+      base_file: fBC14.txt
+      order: 56
+      parent: General
+    f4FA8:
+      title: 'A Few Words of Commentary to Clarify The Essence of Nectar: Graduated
+        Stages of the Path—Advice for Renunciant Meditators'
+      base_file: f4FA8.txt
+      order: 57
+      parent: General
+    f8588:
+      title: 'The Essence of Nectar: Graduated Stages of the Path — Advice for Renunciant
+        Meditators'
+      base_file: f8588.txt
+      order: 58
+      parent: General
+    f94D9:
+      title: Advice for Satsa Drupgen
+      base_file: f94D9.txt
+      order: 59
+      parent: General
+    fD550:
+      title: An Exhortation to Tibetans
+      base_file: fD550.txt
+      order: 60
+      parent: General
+    f04C9:
+      title: Advice on Yidam Practice
+      base_file: f04C9.txt
+      order: 61
+      parent: General
+    f9EDF:
+      title: Advice on Remembering One’s Parents
+      base_file: f9EDF.txt
+      order: 62
+      parent: General
+    f9AE0:
+      title: Verses of Advice for Meditating on Impermanence
+      base_file: f9AE0.txt
+      order: 63
+      parent: General
+    f015C:
+      title: 'A Mirror Revealing the Crucial Points: Advice on the Ultimate Meaning'
+      base_file: f015C.txt
+      order: 64
+      parent: General
+    f2DE4:
+      title: Thirty Pieces of Heart Advice
+      base_file: f2DE4.txt
+      order: 65
+      parent: General
+    f4BB6:
+      title: Advice for Beginners
+      base_file: f4BB6.txt
+      order: 66
+      parent: General
+    f1C9D:
+      title: Advice to Jigme Tenpe Nyima
+      base_file: f1C9D.txt
+      order: 67
+      parent: General
+    f1635:
+      title: Essence of the 84000 Approaches to the Dharma
+      base_file: f1635.txt
+      order: 68
+      parent: General
+    fEFEB:
+      title: The Perfect Equality of the Dharmadhātu
+      base_file: fEFEB.txt
+      order: 69
+      parent: General
+    f8181:
+      title: Advice Revealing How Our Faults Become Clear
+      base_file: f8181.txt
+      order: 70
+      parent: General
+    fF3A7:
+      title: Advice on Abandoning the Eight Worldly Concerns
+      base_file: fF3A7.txt
+      order: 71
+      parent: General
+    f84D6:
+      title: Signs that the Common Preliminary Practices Have Penetrated the Mind
+      base_file: f84D6.txt
+      order: 72
+      parent: General
+    fE434:
+      title: Advice for Orgyen Rigdzin
+      base_file: fE434.txt
+      order: 73
+      parent: General
+    fF752:
+      title: Advice to Lama Rigdzin Gyatso on Understanding the Influence of Companions
+        and Avoiding and Adopting Them Accordingly
+      base_file: fF752.txt
+      order: 74
+      parent: General
+    f15CE:
+      title: Nine Considerations and Criteria for Benefiting Beings
+      base_file: f15CE.txt
+      order: 75
+      parent: General
+    fB95A:
+      title: The Precious Treasury of Written Instruction Transmitted One-to-One
+      base_file: fB95A.txt
+      order: 76
+      parent: General
+    f25C6:
+      title: 'The Joyous Entrance to the Path to Liberation: How to Practise the Six
+        Transcendent Perfections'
+      base_file: f25C6.txt
+      order: 77
+      parent: General
+    fCDB4:
+      title: An Instruction on Pure View and Conduct
+      base_file: fCDB4.txt
+      order: 78
+      parent: General
+    fDD05:
+      title: Advice from the Vajra Wisdom Consort
+      base_file: fDD05.txt
+      order: 79
+      parent: General
+    fE1A0:
+      title: Concise Spiritual Advice
+      base_file: fE1A0.txt
+      order: 80
+      parent: General
+    fAEC1:
+      title: Advice for Gelong Jampa Dargye
+      base_file: fAEC1.txt
+      order: 81
+      parent: General
+    fC814:
+      title: Advice for Tenzin Jamchen
+      base_file: fC814.txt
+      order: 82
+      parent: General
+    f14F4:
+      title: Advice in Four Lines
+      base_file: f14F4.txt
+      order: 83
+      parent: General
+    f365B:
+      title: Advice to Damngak Gyatso of Do
+      base_file: f365B.txt
+      order: 84
+      parent: General
+    fEBEC:
+      title: Letter of Advice to Jamyang Gyaltsen
+      base_file: fEBEC.txt
+      order: 85
+      parent: Guru Yoga
+    f1481:
+      title: 'Beautiful String of Jewels: A Heart Advice'
+      base_file: f1481.txt
+      order: 86
+      parent: Heart Advice
+    fB6DC:
+      title: Heart Advice in a Nutshell
+      base_file: fB6DC.txt
+      order: 87
+      parent: Heart Advice
+    f22B9:
+      title: 'The Heart Essence: My Heart''s Advice'
+      base_file: f22B9.txt
+      order: 88
+      parent: Heart Advice
+    f6A64:
+      title: The Universal Medicine for Healing All Ills
+      base_file: f6A64.txt
+      order: 89
+      parent: In Jest
+    fC68C:
+      title: Satirical Advice for the Four Schools
+      base_file: fC68C.txt
+      order: 90
+      parent: In Jest
+    f6968:
+      title: Mahāmudrā Preliminaries, Main Part & Conclusion
+      base_file: f6968.txt
+      order: 91
+      parent: Mahāmudrā
+    fB1A0:
+      title: 'Mahāmudrā: the Swift Way to Become a Lord of Realization'
+      base_file: fB1A0.txt
+      order: 92
+      parent: Mahāmudrā
+    f50BB:
+      title: The Kusāli's Instruction on the Nature of Mind
+      base_file: f50BB.txt
+      order: 93
+      parent: Mahāmudrā
+    f1A4F:
+      title: A Way of Settling into the Realization of Mind’s Essence
+      base_file: f1A4F.txt
+      order: 94
+      parent: Mahāmudrā
+    f1289:
+      title: The Mahāmudrā Practice of Stillness, Movement and Awareness
+      base_file: f1289.txt
+      order: 95
+      parent: Mahāmudrā
+    f5AC4:
+      title: Instructions on the Fivefold Mahāmudrā
+      base_file: f5AC4.txt
+      order: 96
+      parent: Mahāmudrā
+    fDAE4:
+      title: Pointing Out Instruction
+      base_file: fDAE4.txt
+      order: 97
+      parent: Mahāmudrā
+    fEF5D:
+      title: 'Advice for Beginners: How to Overcome Obstacles to Meditation'
+      base_file: fEF5D.txt
+      order: 98
+      parent: Meditation
+    fE0FF:
+      title: How to Cultivate Concentration
+      base_file: fE0FF.txt
+      order: 99
+      parent: Meditation
+    f9F1A:
+      title: Profound Instruction on Śamatha
+      base_file: f9F1A.txt
+      order: 100
+      parent: Meditation
+    fFCAE:
+      title: The Importance of Mindfulness and Vigilance
+      base_file: fFCAE.txt
+      order: 101
+      parent: Meditation
+    f59CC:
+      title: How to Transform Sickness and Other Circumstances
+      base_file: f59CC.txt
+      order: 102
+      parent: Mind Training
+    fCC39:
+      title: The Thirty-Seven Practices of All the Bodhisattvas
+      base_file: fCC39.txt
+      order: 103
+      parent: Mind Training
+    fBC92:
+      title: The Instructions on Parting from the Four Attachments
+      base_file: fBC92.txt
+      order: 104
+      parent: Mind Training
+    f7243:
+      title: 'Advice on Nonsectarianism (from Radiant Sunlight of the Victorious Ones''
+        Teachings: A Brief, First-Hand Account of the Liberating Life-Story of the
+        Great Emanated Treasure Revealer)'
+      base_file: f7243.txt
+      order: 105
+      parent: Nonsectarianism
+    f0334:
+      title: A Sun to Banish the Darkness of Wrong Views
+      base_file: f0334.txt
+      order: 106
+      parent: Nonsectarianism
+    fA585:
+      title: 'Opening the Door of Dharma: A Brief Discourse on the Essence of All
+        Vehicles'
+      base_file: fA585.txt
+      order: 107
+      parent: Nonsectarianism
+    f8C82:
+      title: The Four Dharma Traditions of Tibet
+      base_file: f8C82.txt
+      order: 108
+      parent: Nonsectarianism
+    f234E:
+      title: Advice to Three-Year Retreatants
+      base_file: f234E.txt
+      order: 109
+      parent: Retreat
+    f6706:
+      title: Retreat Advice
+      base_file: f6706.txt
+      order: 110
+      parent: Retreat
+    f881E:
+      title: Song of the Enchanting Wildwoods
+      base_file: f881E.txt
+      order: 111
+      parent: Retreat
+    f5954:
+      title: The Heaven of Solitude
+      base_file: f5954.txt
+      order: 112
+      parent: Retreat
+    f9CA5:
+      title: Advice for Alak Dongak
+      base_file: f9CA5.txt
+      order: 113
+      parent: Retreat
+    f0468:
+      title: Yearning for Mountain Solitude
+      base_file: f0468.txt
+      order: 114
+      parent: Retreat
+    fE7E0:
+      title: Advice for Retreat
+      base_file: fE7E0.txt
+      order: 115
+      parent: Retreat
+    f7EAC:
+      title: From the Oral Tradition of the Lama of Nyarong
+      base_file: f7EAC.txt
+      order: 116
+      parent: Retreat
+    f335A:
+      title: On the Importance of Avoiding Criticism of the Guru
+      base_file: f335A.txt
+      order: 117
+      parent: Samaya
+    f8916:
+      title: 'The Lion''s Roar of Definitive Meaning: A Difficult Point Concerning
+        Samaya'
+      base_file: f8916.txt
+      order: 118
+      parent: Samaya
+    fD4D4:
+      title: On Jetsün Drakpa Gyaltsen’s How to Take the Practice to Heart
+      base_file: fD4D4.txt
+      order: 119
+      parent: Songs
+    fBDFB:
+      title: How to Take the Practice to Heart
+      base_file: fBDFB.txt
+      order: 120
+      parent: Songs
+    f55C4:
+      title: 'The Sound of the Divine Drum: Advice at a Time of Victory'
+      base_file: f55C4.txt
+      order: 121
+      parent: Songs
+    f3DD4:
+      title: 'Rain of Accomplishments: A Song that Incorporates the Four Mindfulnesses
+        from an Instruction on the View of the Middle Way'
+      base_file: f3DD4.txt
+      order: 122
+      parent: Songs
+    f6648:
+      title: A Short Song of Practice
+      base_file: f6648.txt
+      order: 123
+      parent: Songs
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
